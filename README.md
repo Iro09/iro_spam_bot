@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# 「[DeadlySpam👮](https://t.me/deadly_spam_bot)」
-Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘽𝙡𝙖𝙯𝙚✘ᥫʀ᭡](https://t.me/Elric_xD)
+# 「[🔥⃝⚔️ ⚜️𝗔𝗠𝗔𝗡 ♻️ 𝗝𝗛𝗔 ♻️❤️⚜️ 𓆩 Ƒąҟҽ Ƒɾìҽղժʂ 💔](https://t.me/Aman_Jha_Official)」
+Mᴀɴᴀɢᴇᴅ Bʏ: [🔥⃝⚔️ ⚜️𝗔𝗠𝗔𝗡 ♻️ 𝗝𝗛𝗔 ♻️❤️⚜️ 𓆩 Ƒąҟҽ Ƒɾìҽղժʂ 💔](https://t.me/Aman_Personal_bot)
 
 Mᴀɴᴀɢᴇᴅ Bʏ: [卄ﾑᥴᛕꫀ᥅ 〤 丂нﾑKﾑ](https://t.me/SonOfTyagi)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -15,17 +15,17 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [卄ﾑᥴᛕꫀ᥅ 〤 丂нﾑKﾑ](https://t.me/SonOfT
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DeadlySpamBot+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DeadlySpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
 </p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-Deadly/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ndlfnjrs/Aman_Jha_Spam_bot"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
 
-#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/Team-Deadly/BOTDEPLOY) 
+#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/ndlfnjrs/Aman_Jha_Spam_bot) 
 
 # Tutorial 
 Deploy Full Tutorial --> [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=mJjcO7Zy-6g)
 
-## What Is DeadlySpamBot
+## What Is AmanSpamBot
 
-<b>DeadlySpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
+<b>AmanJhaSpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
 ## Is Safe To Deploy
 
@@ -33,6 +33,6 @@ Deploy Full Tutorial --> [![Full Tutorial](https://img.shields.io/badge/Watch%20
 
 # CᴏɴᴛʀɪBᴜᴛᴏʀꜱ
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Team-Deadly/DEADLY-SPAMBOT)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Team-AmanJhaop)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
