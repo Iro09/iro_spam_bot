@@ -5,11 +5,11 @@ from time import time
 from datetime import datetime
 from DEADLYSPAM import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+HELP_PIC = "https://telegra.ph/file/129444d2dfedf7e967ba1.jpg"
 
-DEAD_Help = "🔥 Dᴇᴀᴅʟʏ Sᴘᴀᴍ Bᴏᴛ 🔥\n\n"
+DEAD_Help = "🔥Its Depressed Child Spam Bot 🔥\n\n"
  
-DEAD_Help += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
+DEAD_Help += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ Depressed Child Spam ʙᴏᴛ__\n\n"
 
 DEAD_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -36,7 +36,7 @@ async def help(event):
                                   caption=DEAD_Help,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Deadly_spambot")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Aman_Jha_Official")
         ] 
         ]
         )
