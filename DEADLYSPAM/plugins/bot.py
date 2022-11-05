@@ -15,7 +15,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/b68d520cc1e5a96df4160.jpg"
+DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/e7d70cb1aeaee22e8c890.jpg"
   
 
 DEADLY = "✯ Its Depressed Boy 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲 ✯\n\n"
@@ -34,11 +34,11 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Scary_Rules"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Sacry_Support")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/iro_bot_support"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/iro_x_support")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/LaKsH-X/DEADLY-SPAM-BOT")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Iro09/iro_spam_bot")
         ]
         ]
         )
@@ -87,7 +87,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 🇵 🇴 🇳 🇬 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"HAYY BABY ✨❣️🥀!\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
