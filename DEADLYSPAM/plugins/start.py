@@ -5,16 +5,16 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from DEADLYSPAM import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID, OWNER_NAME
 
-DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/675ec502cb34cb80dbfb4.jpg"
+DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/e7d70cb1aeaee22e8c890.jpg"
 
 
 Deadly_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Scary_ki_Duniya"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Scary_Support")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/iro_bot_support"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/iro_x_support")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://github.com/LaKsH-X/DEADLY-SPAM-BOT")
+        Button.url("• Rᴇᴘᴏ •", "https://github.com/Iro09/iro_spam_bot")
         ]
         ]
         
@@ -38,7 +38,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[Scary](tg://user?id={5722601919})"
+        creator = f"[♡](tg://user?id={5518757491})"
         DEADLY_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs ᴅᴇᴀᴅʟʏ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
