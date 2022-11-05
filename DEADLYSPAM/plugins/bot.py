@@ -15,7 +15,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/b68d520cc1e5a96df4160.jpg"
   
 
 DEADLY = "✯ Its Depressed Boy 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲 ✯\n\n"
@@ -34,11 +34,11 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Aman_Jha_Official"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Aman_Jha_OfficialT")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Scary_Rules"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Sacry_Support")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/ItsDepressedChild/Spam_bot")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/LaKsH-X/DEADLY-SPAM-BOT")
         ]
         ]
         )
