@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from DEADLYSPAM import CMD_HNDLR as hl
     
-HELP_PIC = "https://te.legra.ph/file/b68d520cc1e5a96df4160.jpg"
+HELP_PIC = "https://te.legra.ph/file/675ec502cb34cb80dbfb4.jpg"
 
 DEAD_Help = "🔥Its Scary Spam Bot 🔥\n\n"
  
