@@ -1,24 +1,24 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# 「[ Haters Ka Baap Hu  💔](https://t.me/imbaccha)」
-Mᴀɴᴀɢᴇᴅ Bʏ: [🔥Scary Owner 💔](https://t.me/scarywasabot)
-
-Mᴀɴᴀɢᴇᴅ Bʏ: [Haters Papa💔](https://t.me/Scarywasabot)
+# 「[  ♡  ](https://t.me/Pikk_u)」
+Mᴀɴᴀɢᴇᴅ Bʏ: [✨ IRO Owner  ❣️](https://t.me/Pikk_u)
+ 
+Mᴀɴᴀɢᴇᴅ Bʏ: [✨  ♡   ❣️](https://t.me/Pikk_u)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙰+𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖+𝚂𝚙𝚊𝚖𝙱𝚘𝚝+𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎;𝚠𝚛𝚒𝚝𝚝𝚎𝚗+𝙸𝚗+Telethon%E2%9D%A4%EF%B8%8F">
 </p> 
 
-![logo](https://te.legra.ph/file/675ec502cb34cb80dbfb4.jpg)
+![logo](https://te.legra.ph/file/46106661bd60a3e919df6.jpg)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # Hᴏsᴛɪɴɢ
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+ItsDepressedBoySpamBot+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+ItsDepressedBoySpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
 </p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/LaKsH-X/DEADLY-SPAM-BOT"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Iro09/iro_spam_bot"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
 
-#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/LaKsH-X/DEADLY-SPAM-BOT) 
+#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/Iro09/iro_spam_bot) 
 
 # Tutorial 
 Deploy Full Tutorial --> [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=mJjcO7Zy-6g)
