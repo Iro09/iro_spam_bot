@@ -5,11 +5,11 @@ from time import time
 from datetime import datetime
 from DEADLYSPAM import CMD_HNDLR as hl
     
-HELP_PIC = "https://te.legra.ph/file/675ec502cb34cb80dbfb4.jpg"
+HELP_PIC = "https://te.legra.ph/file/46106661bd60a3e919df6.jpg"
 
-DEAD_Help = "🔥Its Scary Spam Bot 🔥\n\n"
+DEAD_Help = "🔥Its IRO Spam Bot 🔥\n\n"
  
-DEAD_Help += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ Scary Spam ʙᴏᴛ__\n\n"
+DEAD_Help += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ IRO Spam ʙᴏᴛ__\n\n"
 
 DEAD_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -25,7 +25,7 @@ DEAD_Help += f" `!raid` - to raid\n `!replyraid` - to active reply raid\n `!drep
 
 DEAD_Help += f" !deadlyspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂 ↧\n\n"
 
-DEAD_Help += f"© Scary_Support\n"
+DEAD_Help += f"© iro_x_support\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -36,7 +36,7 @@ async def help(event):
                                   caption=DEAD_Help,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Scary_ki_Duniya")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/iro_x_support")
         ] 
         ]
         )
